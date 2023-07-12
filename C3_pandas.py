@@ -12,4 +12,3 @@ print (temp_data)
 
 # saving the new csv
 temp_data.to_csv("c:/temp/CSIR/3/temp_data_output.csv")
-
