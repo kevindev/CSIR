@@ -1,0 +1,379 @@
+#Description
+{
+    "id": "b0f44d9ae56640a4b5dc08c8ff27a43a",
+    "owner": "kevinj",
+    "created": 1688842239000,
+    "isOrgItem": true,
+    "modified": 1689111452000,
+    "guid": null,
+    "name": null,
+    "title": "CSIR Challenge 3",
+    "type": "Web Map",
+    "typeKeywords": [
+        "ArcGIS API for JavaScript",
+        "ArcGIS Online",
+        "DeveloperBasemap",
+        "Explorer Web Map",
+        "Map",
+        "Online Map",
+        "Web Map"
+    ],
+    "description": "",
+    "tags": [
+        "CSIR"
+    ],
+    "snippet": "CSIR Challenge 3 Web Map",
+    "thumbnail": "thumbnail/ago_downloaded.png",
+    "documentation": null,
+    "extent": [
+        [
+            -39.15216852649216,
+            -4.264294080711533
+        ],
+        [
+            18.504081473492512,
+            33.20648039133654
+        ]
+    ],
+    "categories": [],
+    "spatialReference": "",
+    "accessInformation": "",
+    "licenseInfo": "",
+    "culture": "en-us",
+    "properties": null,
+    "advancedSettings": null,
+    "url": "",
+    "proxyFilter": null,
+    "access": "public",
+    "size": 3674,
+    "subInfo": 0,
+    "appCategories": [],
+    "industries": [],
+    "languages": [],
+    "largeThumbnail": null,
+    "banner": null,
+    "screenshots": [],
+    "listed": false,
+    "ownerFolder": "107827ed42b142dfbec04752a37f235a",
+    "protected": false,
+    "commentsEnabled": true,
+    "numComments": 0,
+    "numRatings": 0,
+    "avgRating": 0,
+    "numViews": 105,
+    "itemControl": "admin",
+    "scoreCompleteness": 41,
+    "groupDesignations": null,
+    "tokenExpirationDate": -1,
+    "contentOrigin": "self",
+    "lastViewed": 1689361200000,
+    "robots": [
+        "noindex",
+        "nofollow"
+    ]
+}
+#Data
+{
+    "operationalLayers": [
+        {
+            "id": "18936d5724e-layer-2",
+            "title": "Temperature point-Styled",
+            "url": "https://services6.arcgis.com/BV9Cl3GWEg2RXnKK/arcgis/rest/services/CSIR_Challenge3/FeatureServer/0",
+            "visibility": false,
+            "itemId": "bf53e7f92b144466a2b8eee8f5a25a62",
+            "layerType": "ArcGISFeatureLayer",
+            "layerDefinition": {
+                "drawingInfo": {
+                    "renderer": {
+                        "authoringInfo": {
+                            "type": "univariateColorSize",
+                            "visualVariables": [
+                                {
+                                    "maxSliderValue": 282.21,
+                                    "minSliderValue": 273.17,
+                                    "theme": "high-to-low",
+                                    "type": "colorInfo"
+                                },
+                                {
+                                    "maxSliderValue": 282.21,
+                                    "minSliderValue": 273.17,
+                                    "theme": "high-to-low",
+                                    "type": "sizeInfo"
+                                }
+                            ],
+                            "univariateTheme": "high-to-low"
+                        },
+                        "type": "classBreaks",
+                        "visualVariables": [
+                            {
+                                "type": "sizeInfo",
+                                "field": "Temperature_Kevlin",
+                                "maxDataValue": 282.20546741,
+                                "maxSize": {
+                                    "type": "sizeInfo",
+                                    "valueExpression": "$view.scale",
+                                    "stops": [
+                                        {
+                                            "size": 28.6,
+                                            "value": 1155581.108577
+                                        },
+                                        {
+                                            "size": 28.6,
+                                            "value": 9244648.868618
+                                        },
+                                        {
+                                            "size": 17.3,
+                                            "value": 73957190.948944
+                                        },
+                                        {
+                                            "size": 8.7,
+                                            "value": 591657527.591555
+                                        }
+                                    ]
+                                },
+                                "minDataValue": 273.174594652,
+                                "minSize": {
+                                    "type": "sizeInfo",
+                                    "valueExpression": "$view.scale",
+                                    "stops": [
+                                        {
+                                            "size": 7.1,
+                                            "value": 1155581.108577
+                                        },
+                                        {
+                                            "size": 5.7,
+                                            "value": 9244648.868618
+                                        },
+                                        {
+                                            "size": 2.8,
+                                            "value": 73957190.948944
+                                        },
+                                        {
+                                            "size": 1.4,
+                                            "value": 591657527.591555
+                                        }
+                                    ]
+                                },
+                                "valueUnit": "unknown"
+                            },
+                            {
+                                "type": "colorInfo",
+                                "field": "Temperature_Kevlin",
+                                "stops": [
+                                    {
+                                        "color": [
+                                            255,
+                                            249,
+                                            102,
+                                            255
+                                        ],
+                                        "value": 275.4
+                                    },
+                                    {
+                                        "color": [
+                                            235,
+                                            180,
+                                            47,
+                                            255
+                                        ],
+                                        "value": 276.68
+                                    },
+                                    {
+                                        "color": [
+                                            191,
+                                            96,
+                                            96,
+                                            255
+                                        ],
+                                        "value": 277.97
+                                    },
+                                    {
+                                        "color": [
+                                            140,
+                                            37,
+                                            106,
+                                            255
+                                        ],
+                                        "value": 279.28
+                                    },
+                                    {
+                                        "color": [
+                                            111,
+                                            21,
+                                            140,
+                                            255
+                                        ],
+                                        "value": 280.6
+                                    }
+                                ]
+                            }
+                        ],
+                        "classBreakInfos": [
+                            {
+                                "classMaxValue": 9007199254740991,
+                                "symbol": {
+                                    "type": "esriSMS",
+                                    "color": [
+                                        227,
+                                        139,
+                                        79,
+                                        255
+                                    ],
+                                    "angle": 0,
+                                    "xoffset": 0,
+                                    "yoffset": 0,
+                                    "size": 9,
+                                    "style": "esriSMSCircle",
+                                    "outline": {
+                                        "type": "esriSLS",
+                                        "color": [
+                                            255,
+                                            255,
+                                            255,
+                                            64
+                                        ],
+                                        "width": 0.75,
+                                        "style": "esriSLSSolid"
+                                    }
+                                }
+                            }
+                        ],
+                        "defaultLabel": "Other",
+                        "defaultSymbol": {
+                            "type": "esriSMS",
+                            "color": [
+                                170,
+                                170,
+                                170,
+                                255
+                            ],
+                            "angle": 0,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "size": 6,
+                            "style": "esriSMSCircle",
+                            "outline": {
+                                "type": "esriSLS",
+                                "color": [
+                                    153,
+                                    153,
+                                    153,
+                                    64
+                                ],
+                                "width": 0.75,
+                                "style": "esriSLSSolid"
+                            }
+                        },
+                        "field": "Temperature_Kevlin",
+                        "minValue": -9007199254740991
+                    }
+                }
+            }
+        },
+        {
+            "id": "18946e1a84a-layer-3",
+            "title": "Temperature point-Basic",
+            "url": "https://services6.arcgis.com/BV9Cl3GWEg2RXnKK/arcgis/rest/services/CSIR_Challenge3/FeatureServer/0",
+            "itemId": "bf53e7f92b144466a2b8eee8f5a25a62",
+            "layerType": "ArcGISFeatureLayer",
+            "layerDefinition": {
+                "drawingInfo": {
+                    "renderer": {
+                        "type": "simple",
+                        "visualVariables": [
+                            {
+                                "type": "sizeInfo",
+                                "valueExpression": "$view.scale",
+                                "stops": [
+                                    {
+                                        "size": 7.5,
+                                        "value": 1155581.108577
+                                    },
+                                    {
+                                        "size": 6,
+                                        "value": 9244648.868618
+                                    },
+                                    {
+                                        "size": 3,
+                                        "value": 73957190.948944
+                                    },
+                                    {
+                                        "size": 1.5,
+                                        "value": 591657527.591555
+                                    }
+                                ]
+                            }
+                        ],
+                        "symbol": {
+                            "type": "esriSMS",
+                            "color": [
+                                77,
+                                77,
+                                77,
+                                255
+                            ],
+                            "angle": 0,
+                            "xoffset": 0,
+                            "yoffset": 0,
+                            "size": 6,
+                            "style": "esriSMSCircle",
+                            "outline": {
+                                "type": "esriSLS",
+                                "color": [
+                                    255,
+                                    255,
+                                    255,
+                                    64
+                                ],
+                                "width": 0.75,
+                                "style": "esriSLSSolid"
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    ],
+    "baseMap": {
+        "baseMapLayers": [
+            {
+                "id": "World_Hillshade_2559",
+                "opacity": 1,
+                "title": "World Hillshade",
+                "url": "https://ibasemaps-api.arcgis.com/arcgis/rest/services/Elevation/World_Hillshade/MapServer",
+                "visibility": true,
+                "layerType": "ArcGISTiledMapServiceLayer"
+            },
+            {
+                "id": "VectorTile_9568",
+                "opacity": 1,
+                "title": "World Topographic Map",
+                "visibility": true,
+                "layerType": "VectorTileLayer",
+                "styleUrl": "https://cdn.arcgis.com/sharing/rest/content/items/42df0d22517e49ad84edcee4c093857d/resources/styles/root.json"
+            }
+        ],
+        "title": "Topographic"
+    },
+    "authoringApp": "ArcGISMapViewer",
+    "authoringAppVersion": "2023.2",
+    "initialState": {
+        "viewpoint": {
+            "targetGeometry": {
+                "spatialReference": {
+                    "latestWkid": 3857,
+                    "wkid": 102100
+                },
+                "xmin": -4358399.46382154,
+                "ymin": -475137.8976800842,
+                "xmax": 2059864.9272264335,
+                "ymax": 3922742.961734648
+            }
+        }
+    },
+    "spatialReference": {
+        "latestWkid": 3857,
+        "wkid": 102100
+    },
+    "version": "2.28"
+}
