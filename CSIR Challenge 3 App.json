@@ -1,0 +1,153 @@
+#Description 
+{
+    "id": "224db6377287482e9de8e8692c1dc405",
+    "owner": "kevinj",
+    "created": 1688908254000,
+    "isOrgItem": true,
+    "modified": 1689363424000,
+    "guid": null,
+    "name": null,
+    "title": "CSIR Challenge 3 App",
+    "type": "Web Mapping Application",
+    "typeKeywords": [
+        "configurableApp",
+        "JavaScript",
+        "Map",
+        "Mapping Site",
+        "Online Map",
+        "Ready To Use",
+        "Web Map"
+    ],
+    "description": "",
+    "tags": [
+        "CSIR"
+    ],
+    "snippet": "",
+    "thumbnail": "thumbnail/ago_downloaded.png",
+    "documentation": null,
+    "extent": [],
+    "categories": [],
+    "spatialReference": "",
+    "accessInformation": "",
+    "licenseInfo": "",
+    "culture": "en-us",
+    "properties": null,
+    "advancedSettings": null,
+    "url": "https://keczwtoj6zr6icmo.maps.arcgis.com/apps/instant/media/index.html?appid=224db6377287482e9de8e8692c1dc405",
+    "proxyFilter": null,
+    "access": "public",
+    "size": 64080,
+    "subInfo": 0,
+    "appCategories": [],
+    "industries": [],
+    "languages": [],
+    "largeThumbnail": null,
+    "banner": null,
+    "screenshots": [],
+    "listed": false,
+    "ownerFolder": "107827ed42b142dfbec04752a37f235a",
+    "protected": false,
+    "commentsEnabled": true,
+    "numComments": 0,
+    "numRatings": 0,
+    "avgRating": 0,
+    "numViews": 222,
+    "itemControl": "admin",
+    "scoreCompleteness": 33,
+    "groupDesignations": null,
+    "tokenExpirationDate": -1,
+    "contentOrigin": "self",
+    "lastViewed": 1689361200000,
+    "robots": [
+        "noindex",
+        "nofollow"
+    ]
+}
+#Data
+{
+    "source": "7c5f70d91e6b4a5d9c7ee877142d77a6",
+    "folderId": "107827ed42b142dfbec04752a37f235a",
+    "values": {
+        "fullAppSettings": true,
+        "searchConfiguration": {
+            "allPlaceholder": "Find address or place",
+            "sources": [
+                {
+                    "url": "https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer",
+                    "singleLineFieldName": null,
+                    "name": "ArcGIS World Geocoding Service",
+                    "placeholder": "Find address or place",
+                    "maxResults": null,
+                    "maxSuggestions": null,
+                    "suggestionsEnabled": null,
+                    "minSuggestCharacters": null,
+                    "withinViewEnabled": false,
+                    "countryCode": null,
+                    "zoomScale": null
+                }
+            ],
+            "activeSourceIndex": 0
+        },
+        "webmap": "b0f44d9ae56640a4b5dc08c8ff27a43a",
+        "type": "webmap",
+        "splash": false,
+        "header": true,
+        "customHeader": false,
+        "coverPage": true,
+        "theme": "dark",
+        "layerList": true,
+        "layerEffect": false,
+        "keyboardShortcuts": false,
+        "search": true,
+        "showElevationProfile": true,
+        "uploads": [
+            "https://keczwtoj6zr6icmo.maps.arcgis.com/sharing/rest/content/items/224db6377287482e9de8e8692c1dc405/resources/media/instantAppsConfigPanel_1689109281257_Logo.png"
+        ],
+        "customTheme": {
+            "font": "Avenir Next",
+            "appFont": "Avenir Next",
+            "logo": "https://keczwtoj6zr6icmo.maps.arcgis.com/sharing/rest/content/items/224db6377287482e9de8e8692c1dc405/resources/media/instantAppsConfigPanel_1689109281257_Logo.png",
+            "logoLink": "https://www.csir.co.za/",
+            "logoScale": "l",
+            "preset": null,
+            "themes": {
+                "primary": {
+                    "type": "primary",
+                    "background": null,
+                    "text": "#000000"
+                }
+            }
+        },
+        "popupHover": true,
+        "coverPageConfig": {
+            "title": "Coding Challenge 3",
+            "titleColor": "#ffffff",
+            "subtitle": "Senior Engineer - Geospatial Modelling",
+            "subtitleColor": "#ffffff",
+            "textPosition": "center-leading",
+            "buttonText": "Explore map",
+            "buttonTextColor": "#ffffff",
+            "background": {
+                "backgroundType": "color",
+                "backgroundImage": {
+                    "name": "Logo.jpg",
+                    "type": "image/jpeg",
+                    "size": 7393,
+                    "url": "https://keczwtoj6zr6icmo.maps.arcgis.com/sharing/rest/content/items/224db6377287482e9de8e8692c1dc405/resources/media/instantAppsConfigPanel_1689110612287_coverPageConfig_Logo.jpg"
+                },
+                "backgroundColor": "#0079c1"
+            }
+        },
+        "datePublished": 1689363425419,
+        "overviewMap": true,
+        "layerListAddTable": true,
+        "basemapToggle": true,
+        "basemapSelector": "86265e5a4bbb4187a59719cf134e0018",
+        "share": true,
+        "splashContent": "<h2><span style=\"color:mediumblue;\"><span class=\"tagnamecolor tagcolor\">&lt;</span></span><span style=\"color:brown;\"><span class=\"tagnamecolor\">a</span></span><span style=\"color:red;\"><span class=\"tagnamecolor attributecolor\"> href</span></span><span style=\"color:mediumblue;\"><span class=\"tagnamecolor attributecolor attributevaluecolor\">=\"/images/myw3schoolsimage.jpg\"</span></span><span style=\"color:red;\"><span class=\"tagnamecolor attributecolor\"> download</span></span><span style=\"color:mediumblue;\"><span class=\"tagnamecolor tagcolor\">&gt;</span></span></h2>",
+        "splashTitle": "Download CSV",
+        "customHeaderHTML": "<p><a href=\"https://www.nicepng.com/png/detail/242-2424173_picture-library-download-download-from-cloud-icon-free.png\"><img style=\"width:10%;\" src=\"https://www.nicepng.com/png/detail/242-2424173_picture-library-download-download-from-cloud-icon-free.png\" alt=\"Temp.csv\" width=\"30\" height=\"80\">&nbsp;</a></p>",
+        "customHeaderPositionedAtBottom": false,
+        "overviewMapBasemap": "2ea9c9cf54cb494187b03a5057d1a830"
+    }
+}
